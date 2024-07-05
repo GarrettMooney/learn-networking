@@ -46,7 +46,7 @@ We use ports to determine which application gets the data.
 
 ![](./images/chat.svg)
 
-Ports are 16-bit numbers, so there are $2^16 = 65536$ possible ports.
+Ports are 16-bit numbers, so there are $2^{16} = 65536$ possible ports.
 
 * HTTP uses port 80
 * 0-1023 are reserved ports
